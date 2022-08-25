@@ -2,7 +2,7 @@
   "name": "pg-js-01",
   "version": "1.0.0",
   "description": "En este desafío tienes un array de números, usando la función map debes retornar todos los números del array multiplicados por dos.",
-  "source": "src/index.html",
+  "source": "index.html",
   "scripts": {
     "dev": "parcel",
     "build": "parcel build",
