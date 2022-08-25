@@ -1,4 +1,4 @@
-const runCode = require('./index.solution');
+import { runCode } from './solution';
 
 it("should return [1,2,3,4]", () => {
   const arrayA = [1, 2];
