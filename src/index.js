@@ -1,5 +1,5 @@
-function solution(arrayA, arrayB) {
+function runCode(arrayA, arrayB) {
   // Tu código aquí 👈
 }
 
-module.exports = solution;
+module.exports = runCode;
