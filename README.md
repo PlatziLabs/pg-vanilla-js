@@ -1,5 +1,3 @@
-# Multiplica todos los elementos por dos
-
 En este desafío tienes un array de números, usando la función map debes retornar todos los números del array multiplicados por dos.
 
 La solución debería tener un input y output como los siguientes:
