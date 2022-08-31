@@ -1,4 +1,4 @@
-import { runCode } from './solution';
+import { runCode } from './challenge';
 
 it("should return [1,2,3,4]", () => {
   const arrayA = [1, 2];
