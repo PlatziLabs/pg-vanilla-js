@@ -7,8 +7,8 @@ import { mergeArrays } from "./exercise";
 
   document.getElementById("app").innerHTML = `
     <h1>Merge Arrays</h1>
-    <p>Array A: <code>${arrayA}</code></p>
-    <p>Array B: <code>${arrayB}</code></p>
+    <p>Array A: <code>${JSON.stringify(arrayA)}</code></p>
+    <p>Array B: <code>${JSON.stringify(arrayB)}</code></p>
     <p><button id="btn">Run Code</button><p/>
     <p><pre><code id="rta"></code></pre></p>
   `;
